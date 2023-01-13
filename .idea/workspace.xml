@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f20e3f86-fc2d-47ca-a639-66ac395055a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/house_rocket_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/house_rocket_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv/kc_house_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv/purchase_recommendations.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv/selling_recommendations.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/house_rocket_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/house_rocket_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
