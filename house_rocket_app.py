@@ -328,21 +328,21 @@ def show_interactive(df):
 def write_purchase(df):
 
     write_purchase = purchase_report(df)
-    write_purchase.to_csv('csv\purchase_recommendations.csv')
+    write_purchase.to_csv('purchase_recommendations.csv')
 
     return write_purchase
 
 def write_selling(df, df_purchase):
 
     write_selling = selling_report(df, df_purchase)
-    write_selling.to_csv('csv\selling_recommendations.csv')
+    write_selling.to_csv('selling_recommendations.csv')
 
     return write_selling
 
 # ETL:
 if __name__ == "__main__":
 
-    path = 'csv\kc_house_data.csv'
+    path = 'kc_house_data.csv'
     df = get_data(path)
 
     df = create_new_attributes(df)
