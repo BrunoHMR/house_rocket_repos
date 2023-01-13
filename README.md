@@ -74,7 +74,7 @@ Total: 19 atributos.
 5.2 Produto final:
 - Relatório 'purchase_recommendations.csv' com sugestões de compra de imóveis;
 - Relatório 'selling_recommendations.csv' com sugestões de preço de venda de imóveis e momento de venda de imóveis;
-- Aplicação 'house_rocket_app.py' utilizando o framework Streamlit para visualização e validação de hipóteses e para que o time de negócio possa realizar a sua própria análise.
+- Aplicação 'house_rocket_app.py' utilizando o framework Streamlit para visualização e validação de hipóteses e para que o time de negócio possa realizar a sua própria análise. Disponível em: https://brunohmr-house-rocket-repos-house-rocket-app-3rq183.streamlit.app/.
 
 5.3 Planejamento para a criação do relatório de sugestão de compra dos imóveis:
 
