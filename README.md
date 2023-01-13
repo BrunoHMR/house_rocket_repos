@@ -66,7 +66,7 @@ Total: 19 atributos.
 **5. Planejamento da solução:**
 
 5.1 Ferramentas utilizadas:
-- Python 3.9.12;
+- Python 3.10.8;
 - PyCharm Community;
 - Jupyter Notebook;
 - Streamlit.
@@ -74,7 +74,7 @@ Total: 19 atributos.
 5.2 Produto final:
 - Relatório 'purchase_recommendations.csv' com sugestões de compra de imóveis;
 - Relatório 'selling_recommendations.csv' com sugestões de preço de venda de imóveis e momento de venda de imóveis;
-- Aplicação 'main.py' utilizando o framework Streamlit para visualização e validação de hipóteses e para que o time de negócio possa realizar a sua própria análise.
+- Aplicação 'house_rocket_app.py' utilizando o framework Streamlit para visualização e validação de hipóteses e para que o time de negócio possa realizar a sua própria análise.
 
 5.3 Planejamento para a criação do relatório de sugestão de compra dos imóveis:
 
