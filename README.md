@@ -98,29 +98,29 @@ Total: 19 atributos.
 
 6.1. Hipóteses:
 
-6.1.1. Imóveis que possuem vista para o mar são 30% mais caros, na média.
-6.1.2. Imóveis construídos depois de 1955 são 50% mais caros, na média.
-6.1.3. Imóveis com porão são 50% maiores do que imóveis sem porão, na média.
-6.1.4. O crescimento do preço dos imóveis YoY (Year over Year) por ano de construção é de 10%.
-6.1.5. Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%.
-6.1.6. No mês de dezembro os imóveis são 25% mais caros que nos outros meses, na média.
-6.1.7. Imóveis reformados são 50% mais caros que imóveis não reformados, na média.
-6.1.8. Imóveis com porão são 40% mais caros que imóveis sem porão, na média.
-6.1.9. Imóveis com boas condições são 10 anos mais novos que imóveis com más condições, na média.
-6.1.10. Imóveis reformados tem um crescimento de preço médio mensal MoM 5% maior que imóveis não reformados.
+- 6.1.1. Imóveis que possuem vista para o mar são 30% mais caros, na média.
+- 6.1.2. Imóveis construídos depois de 1955 são 50% mais caros, na média.
+- 6.1.3. Imóveis com porão são 50% maiores do que imóveis sem porão, na média.
+- 6.1.4. O crescimento do preço dos imóveis YoY (Year over Year) por ano de construção é de 10%.
+- 6.1.5. Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%.
+- 6.1.6. No mês de dezembro os imóveis são 25% mais caros que nos outros meses, na média.
+- 6.1.7. Imóveis reformados são 50% mais caros que imóveis não reformados, na média.
+- 6.1.8. Imóveis com porão são 40% mais caros que imóveis sem porão, na média.
+- 6.1.9. Imóveis com boas condições são 10 anos mais novos que imóveis com más condições, na média.
+- 6.1.10. Imóveis reformados tem um crescimento de preço médio mensal MoM 5% maior que imóveis não reformados.
 
 6.2. Validações:
 
-6.2.1. Falso. Imóveis com vista para o mar são 211,76% mais caros, na média.
-6.2.2. Falso. Imóveis construídos depois de 1955 são 1,4% mais caros, na média.
-6.2.3. Falso. Imóveis com porão são 19,83% maiores, na média.
-6.2.4. Falso. O crescimento de preço anual dos por ano de construção dos imóveis é de 1,07%, na média.
-6.2.5. Falso. O crescimento de preço mensal dos imóveis com 3 banheiros é de 0,16%, na média.
-6.2.6. Falso. Em dezembro os imóveis são 3,13% mais baratos que nos outros meses, na média.
-6.2.7. Falso. Imóveis reformados são 43,29% mais caros, na média.
-6.2.8. Falso. Imóveis com porão são 27,76% mais caros, na média.
-6.2.9. Falso. Imóveis em boas condições são 23,57 anos mais velhos, na média.
-6.2.10. Falso. Imóveis reformados tem um crescimento de preço médio mensal MoM de 3,58%, enquanto imóveis não reformados tem um crescimento de preço médio mensal MoM de 0,11%.
+- 6.2.1. Falso. Imóveis com vista para o mar são 211,76% mais caros, na média.
+- 6.2.2. Falso. Imóveis construídos depois de 1955 são 1,4% mais caros, na média.
+- 6.2.3. Falso. Imóveis com porão são 19,83% maiores, na média.
+- 6.2.4. Falso. O crescimento de preço anual dos por ano de construção dos imóveis é de 1,07%, na média.
+- 6.2.5. Falso. O crescimento de preço mensal dos imóveis com 3 banheiros é de 0,16%, na média.
+- 6.2.6. Falso. Em dezembro os imóveis são 3,13% mais baratos que nos outros meses, na média.
+- 6.2.7. Falso. Imóveis reformados são 43,29% mais caros, na média.
+- 6.2.8. Falso. Imóveis com porão são 27,76% mais caros, na média.
+- 6.2.9. Falso. Imóveis em boas condições são 23,57 anos mais velhos, na média.
+- 6.2.10. Falso. Imóveis reformados tem um crescimento de preço médio mensal MoM de 3,58%, enquanto imóveis não reformados tem um crescimento de preço médio mensal MoM de 0,11%.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
