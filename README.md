@@ -4,7 +4,7 @@
 
 **1. Descrição do problema de negócio:**
 
-A House Rocket é uma empresa fictícia que trabalha compra e venda de imóveis. A equipe de negócio da empresa precisa decidir quais são as melhores opções de imóveis para compra. Devido a grande quantidade de imóveis no portfólio e da quantidade de atributos que cada imóvel possui, é demandada uma análise mais criteriosa e técnica. Porém, realizar o trabalho manualmente é muito demorado e pode levar a decisões precipitadas. Deste modo, é necessária a realização de um projeto para avaliar quais são as melhores estratégias para que a empresa consiga escolher bons imóveis para a compra, aumentando o seu faturamento.
+A House Rocket é uma empresa fictícia que trabalha com a compra e venda de imóveis. A equipe de negócio da empresa precisa decidir quais são as melhores opções de imóveis para compra. Devido a grande quantidade de imóveis no portfólio e da quantidade de atributos que cada imóvel possui, é demandada uma análise mais criteriosa e técnica. Porém, realizar o trabalho manualmente é muito demorado e pode levar a decisões precipitadas. Deste modo, é necessária a realização de um projeto para avaliar quais são as melhores estratégias para que a empresa consiga escolher bons imóveis para a compra, aumentando o seu faturamento.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
